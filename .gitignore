@@ -1,0 +1,6 @@
+.vscode
+data/db
+data/rabbitmq
+node_modules
+.npmrc
+yarn.lock
